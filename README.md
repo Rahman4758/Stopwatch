@@ -29,7 +29,7 @@ To run the Stopwatch project locally, follow these steps:
    git clone https://github.com/your-username/stopwatch-project.git
 
 ## Demo
-You can view a live demo of the StopWatch click [here](https://github.com/Rahman4758/Stopwatch).
+You can view a live demo of the StopWatch click [here](https://rahman4758.github.io/Stopwatch/).
 
 ## License
 

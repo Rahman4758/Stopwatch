@@ -43,5 +43,5 @@ Special thanks to the developers and communities behind the technologies used in
 
 If you have any questions or suggestions, feel free to reach out:
 
-Email: mrahman.jpc@@gmail.com
+Email: mrahman.jpc@gmail.com
 
